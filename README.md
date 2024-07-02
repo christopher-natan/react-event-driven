@@ -5,6 +5,7 @@ Currently, the feature is actively being developed and incorporates event-driven
 ## Code Structure
 
 - **Separation of Concerns:** Views (HTML elements) are segregated from core logic to enhance modularity and maintainability.
+- Incorporates event-driven architecture
 
 ## Next Steps
 
